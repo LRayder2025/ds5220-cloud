@@ -1,4 +1,4 @@
-# Lab: Creating and Managing EC2 Instances
+# Lab 2: Creating and Managing EC2 Instances
 
 ## Learning Objectives
 
