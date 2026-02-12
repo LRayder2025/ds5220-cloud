@@ -18,7 +18,7 @@ An intensive overview of cloud infrastructure and their role in data science. To
 - [**Lab 2**](labs/lab02/README.md) - Creating & Managing EC2 Instances (due 1/30/2026)
 - [**Lab 3**](labs/lab03/README.md) - EC2 Instance Management and IAM Roles (due 2/6/2026)
 - [**Lab 4**](labs/lab04/README.md) - Infrastructure as Code with Python and `boto3` (due 2/13/2025)
-- Lab 5
+- [**Lab 5**](labs/lab05/README.md) - Event-Driven Architecture with SNS and S3 (due 2/20/2025)
 - Lab 6
 - Lab 7
 - Lab 8
