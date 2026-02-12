@@ -8,7 +8,14 @@ Note: This is the second of five graduate labs.
 
 ## 1. Introduction
 
-A **DuckLake** is a modern data lakehouse pattern where **DuckDB** acts as the compute engine and metadata catalog, while **Amazon S3** provides the storage layer. This architecture allows for high-performance analytics without the overhead of a managed database server.
+This lab leverages object storage (Amazon S3) coupled with a database to store
+metadata for a growing pool of data objects. This includes defining schemas, versioning,
+and tiered levels of cleaned, filtered, or transformed data.
+
+A **DuckLake** is a modern data lakehouse pattern where **DuckDB** acts as the compute 
+engine and metadata catalog, while **Amazon S3** provides the storage layer. This 
+architecture allows for high-performance analytics without the overhead of a managed 
+database server.
 
 Be aware that alternate database engines such as PostgreSQL, MySQL hosted locally or remotely would be more appropriate for a production-grade lakehouse. DuckDB using a local file keeps the database requirement simple for this lab.
 
